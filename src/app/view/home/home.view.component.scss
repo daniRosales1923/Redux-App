@@ -1,0 +1,102 @@
+body{
+    font-family: 'Montserrat',sans-serif;
+
+}
+ 
+ 
+  // input.form-control:focus{
+  //   border-color:  #99c84a;
+  // }
+  // #search-bar{
+  //   padding: 1em;
+  // }
+  // #productosCarrusel img{
+  //   margin: auto;
+  // }
+  .info-container {
+    width: 100vw;
+    background-color: #99c84a;
+    color: white;
+ 
+    & h4{
+      margin: .5em 0;
+      width: max-content;
+    }
+    & img.img-fluid{
+      margin: 0 auto;
+      margin-top: 2em;
+    
+    }
+  }
+
+  
+  // #footer-container{
+  //   background-color: #1c3643;
+  //   color: white;
+  //   padding: 3em 0;
+
+  //   & h4{
+  //     font-size: 16px;
+  //   }
+
+  //   & .nav-link{
+  //     color: white;
+  //   }
+  // }
+  
+  // #breadcrumbs-container{
+  //   & .breadcrumb{
+  //     background-color: white;
+  //   }
+
+  //   & .breadcrumb .breadcrumb-item{
+  //     color: #1c3643;
+  //   }
+
+  //   &.breadcrumb .breadcrumb-item.active{
+  //     color: #95a5a6;
+  //   }
+
+  //   & .breadcrumb .breadcrumb-item+.breadcrumb-item::before{
+  //     content: ">"
+  //   }
+  // }
+  // #productos-container{
+  //   margin-bottom: 2em;
+
+  //   & .list-group-item-action.active{
+  //     background-color: #99c84a;
+  //     border-color: #99c84a;
+  //   }
+
+  //   &.list-group+.list-group{
+  //     margin-top: 1em;
+  //   }
+  // }
+  // #paginator-container {
+  //   & .page-item:not(.active):not(.disabled) .page-link{
+  //   color: #99c84a;
+  //   }
+
+  //   &.page-item.active .page-link, .page-item.active .page-link:focus, .page-item.active .page-link:hover{
+  //     background-color: #99c84a;
+  //     border-color: #99c84a;
+  //     color:white;
+  //   }
+  // }
+  
+  
+  // @media (max-width: 768px){
+  //   .listado-productos{
+  //     margin-top: 2em;
+  //   }
+  //   .listado-productos.card-img-top{
+  //     width: auto;
+  //   }
+  // }
+  
+  // @media (max-width: 768px) {
+  //   #footer-container [class*="col-"]{
+  //     margin-bottom: 2em;
+  //   }
+  // }
